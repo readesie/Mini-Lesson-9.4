@@ -26,4 +26,4 @@ Include a list of the tools used in the project:
    <li><a href="#contact">Contact Information</a></li>
 </ul>
 
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github Logo - html" title="Github Logo - html" />
+<img src="https://cameronmcefee.com/img/work/the-octocat/original.jpg" alt="Github Logo - html" title="Github Logo - html" />
